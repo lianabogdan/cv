@@ -1,0 +1,165 @@
+*{margin:0;
+  padding:0}
+
+.container{width:100%;
+           height:750px;
+		   background:black;
+}
+.parte-stanga{background:#dde6e6; 
+              width:30%; 
+			  height:900px; 
+              float:left;
+			  border-top-left-radius:100px;
+}
+.parte-dreapta{width:70%;
+              height:900px;
+			  float:left;
+			  background:#eff6f6;
+			  border-top-right-radius:100px;}
+			  
+.pozacv{width:100%;
+height:230px;}
+			  
+.fotocv{width:170px; 
+	 height:170px; 
+float:left;
+border-radius:100%;
+margin:30px 90px;}
+
+.poza1{width:15px; 
+height:15px; }
+
+.contact{font-family: 'Montserrat', sans-serif;
+		text-align: center;
+		 /* margin-top:40px; */
+   width:100%; 
+height:20px;
+color:#abad5b;
+		font-weight: bold;
+}
+.contact1{height:15px;
+width:100%; }
+
+.imgphone{width:100%; 
+height:15px;
+ }
+
+.phone  {width:25; 
+	 height:15px; 
+margin:10px 180px;}
+
+.telefon{font-family: 'Montserrat', sans-serif;
+text-align: center;
+width:100%; 
+height:25px;}
+
+.imgemail{width:100%; 
+height:15px; }
+
+.email  {width:15px; 
+	 height:15px; 
+margin:10px 180px;}
+
+.emails  {font-family: 'Montserrat', sans-serif;
+text-align: center;
+width:100%; 
+height:25px;}
+
+.imgphone{width:100%; 
+height:15px; }
+
+.locatie  {width:25px; 
+	 height:25px; 
+margin:10px 180px;}
+
+.adresa{font-family: 'Montserrat', sans-serif;
+text-align: center;
+width:100%; 
+height:25px;}
+
+
+.education{font-family: 'Montserrat', sans-serif;
+		text-align: center;
+		width:100%;
+		height:20px;
+		color:#abad5b;
+		font-weight: bold;
+}
+.edu{font-family: 'Montserrat', sans-serif;
+text-align: center;
+width:100%;
+height:160px;}
+
+.skills{font-family: 'Montserrat', sans-serif;
+		text-align: center;
+		 width:100%;
+			height:20px;
+			color:#abad5b;
+		font-weight: bold;}
+
+.skill{font-family: 'Montserrat', sans-serif;
+text-align: center;
+width:100%;
+height:150px;}
+
+
+
+
+
+.logocv1{width:70%; 
+height:250px;}	
+
+.logocv{width:350px; 
+	 height:250px; 
+margin-left:45%;}	
+
+.profile{font-family: 'Montserrat', sans-serif;
+		text-align: center;
+		width:100%;
+		height:20px;
+		color:#abad5b;
+		font-weight: bold;}
+  
+.profile1 {font-family: 'Montserrat', sans-serif;
+font-size:15px;
+text-align: justify;
+width:98%;
+height:120px;
+padding:10px;
+}  
+  
+.work{font-family: 'Montserrat', sans-serif;
+		text-align: center;
+		width:100%;
+		height:30px;
+		color:#abad5b;
+		font-weight: bold;}
+ 
+.work1 {font-family: 'Montserrat', sans-serif;
+text-align: center;
+width:100%;
+height:150px;
+margin-left:10px;
+font-size:15px;
+
+}
+
+.work2 {font-family: 'Montserrat', sans-serif;
+text-align: center;
+width:100%;
+height:150px;
+margin-left:10px;
+font-size:15px;
+}
+
+.projects1{width:100%;
+height:50px;}
+
+.projects {font-family: 'Montserrat', sans-serif;
+text-align: center;
+width:100%;
+height:50px;
+margin-left:10px;
+color:#abad5b;
+font-weight: bold;
+}
